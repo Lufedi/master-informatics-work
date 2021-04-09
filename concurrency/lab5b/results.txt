@@ -1,0 +1,75 @@
+
+4-10
+N coroutines:      1   seconds:   0.001191   nanoseconds    1190609 
+N coroutines:      2   seconds:   0.001322   nanoseconds    1322053 
+N coroutines:      3   seconds:   0.001660   nanoseconds    1659975 
+N coroutines:      4   seconds:   0.001737   nanoseconds    1737177 
+
+4-10
+N coroutines:      1   seconds:   0.001178   nanoseconds    1177960 
+N coroutines:      2   seconds:   0.001055   nanoseconds    1054698 
+N coroutines:      3   seconds:   0.000861   nanoseconds     861474 
+N coroutines:      4   seconds:   0.000796   nanoseconds     796439 
+
+4-100 
+N coroutines:      1   seconds:   0.010251   nanoseconds   10251013 
+N coroutines:      2   seconds:   0.009332   nanoseconds    9332278 
+N coroutines:      3   seconds:   0.008277   nanoseconds    8276554 
+N coroutines:      4   seconds:   0.007942   nanoseconds    7941937 
+
+4-100
+N coroutines:      1   seconds:   0.010203   nanoseconds   10203126 
+N coroutines:      2   seconds:   0.010001   nanoseconds   10001468 
+N coroutines:      3   seconds:   0.008694   nanoseconds    8693511 
+N coroutines:      4   seconds:   0.008478   nanoseconds    8477938 
+
+
+10-100
+N coroutines:      1   seconds:   0.010469   nanoseconds   10468742 
+N coroutines:      2   seconds:   0.009802   nanoseconds    9801734 
+N coroutines:      3   seconds:   0.008932   nanoseconds    8932194 
+N coroutines:      4   seconds:   0.008153   nanoseconds    8153192 
+N coroutines:      5   seconds:   0.008513   nanoseconds    8512831 
+N coroutines:      6   seconds:   0.008181   nanoseconds    8181455 
+N coroutines:      7   seconds:   0.007945   nanoseconds    7944727 
+N coroutines:      8   seconds:   0.008821   nanoseconds    8820810 
+N coroutines:      9   seconds:   0.008139   nanoseconds    8138729 
+N coroutines:     10   seconds:   0.007963   nanoseconds    7962774 
+
+
+10-200
+N coroutines:      1   seconds:   0.023443   nanoseconds   23443307 
+N coroutines:      2   seconds:   0.019538   nanoseconds   19537810 
+N coroutines:      3   seconds:   0.016517   nanoseconds   16517117 
+N coroutines:      4   seconds:   0.016357   nanoseconds   16357082 
+N coroutines:      5   seconds:   0.016726   nanoseconds   16726248 
+N coroutines:      6   seconds:   0.016232   nanoseconds   16232360 
+N coroutines:      7   seconds:   0.016339   nanoseconds   16339449 
+N coroutines:      8   seconds:   0.016581   nanoseconds   16581269 
+N coroutines:      9   seconds:   0.016172   nanoseconds   16172400 
+N coroutines:     10   seconds:   0.017520   nanoseconds   17519576 
+
+10-1000
+N coroutines:      1   seconds:   0.101068   nanoseconds  101068225 
+N coroutines:      2   seconds:   0.093095   nanoseconds   93095242 
+N coroutines:      3   seconds:   0.078644   nanoseconds   78643779 
+N coroutines:      4   seconds:   0.073102   nanoseconds   73102437 
+N coroutines:      5   seconds:   0.076475   nanoseconds   76475100 
+N coroutines:      6   seconds:   0.074817   nanoseconds   74817026 
+N coroutines:      7   seconds:   0.077450   nanoseconds   77449950 
+N coroutines:      8   seconds:   0.076687   nanoseconds   76687238 
+N coroutines:      9   seconds:   0.079204   nanoseconds   79203910 
+N coroutines:     10   seconds:   0.077661   nanoseconds   77661210 
+
+
+10-1000
+N coroutines:      1   seconds:   0.099986   nanoseconds   99986284 
+N coroutines:      2   seconds:   0.090454   nanoseconds   90454065 
+N coroutines:      3   seconds:   0.080360   nanoseconds   80359824 
+N coroutines:      4   seconds:   0.077826   nanoseconds   77825801 
+N coroutines:      5   seconds:   0.081864   nanoseconds   81863890 
+N coroutines:      6   seconds:   0.079321   nanoseconds   79321236 
+N coroutines:      7   seconds:   0.081037   nanoseconds   81037499 
+N coroutines:      8   seconds:   0.076412   nanoseconds   76412244 
+N coroutines:      9   seconds:   0.079020   nanoseconds   79020158 
+N coroutines:     10   seconds:   0.078799   nanoseconds   78799281 
