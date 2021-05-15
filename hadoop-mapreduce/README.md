@@ -12,11 +12,11 @@ Luis Felipe Díaz Chica - Master's degree student
 `pip install -r requirements.txt`
 * run `jupyter notebook`
 * go to `localhost:8888`
-* run this notebook cells
+* Open the notebook `trumpo_tweets_results.ipynb` and run the notebook cells
 
-#### Proecedure to generate the data files
+#### Procedure to generate the data files
 
 * Each of the following charts is using a data file generated from a mapreduce script that was executed in a local Hadoop cluster. 
-* The input for all the mapreduce scripts was a file with tweets and retweets open data.
-* For more information about the scripts fo to the `tweetswordcount` project in the root of this project.
+* The input for all the mapreduce scripts was a file with tweets and retweets data.
+* For more information about the scripts go to the `tweetswordcount` project in the root of this project.
 
