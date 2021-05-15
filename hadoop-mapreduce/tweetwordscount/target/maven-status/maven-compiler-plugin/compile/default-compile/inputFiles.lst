@@ -1,0 +1,8 @@
+/home/pipe/Documents/ECI/Master/ALDA/mapreduce/tweetwordscount/src/main/java/org/example/AllowedWordsTweets.java
+/home/pipe/Documents/ECI/Master/ALDA/mapreduce/tweetwordscount/src/main/java/org/example/StopWords.java
+/home/pipe/Documents/ECI/Master/ALDA/mapreduce/tweetwordscount/src/main/java/org/example/CountUserTweets.java
+/home/pipe/Documents/ECI/Master/ALDA/mapreduce/tweetwordscount/src/main/java/org/example/CountCountriesTweets.java
+/home/pipe/Documents/ECI/Master/ALDA/mapreduce/tweetwordscount/src/main/java/org/example/CountLanguageTweets.java
+/home/pipe/Documents/ECI/Master/ALDA/mapreduce/tweetwordscount/src/main/java/org/example/NonStopWordsTweets.java
+/home/pipe/Documents/ECI/Master/ALDA/mapreduce/tweetwordscount/src/main/java/org/example/DeprecatedAllowedWords.java
+/home/pipe/Documents/ECI/Master/ALDA/mapreduce/tweetwordscount/src/main/java/org/example/DeprecatedTweetCount.java
